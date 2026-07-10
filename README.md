@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Shalab%20here&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%20%7C%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Shalab%20Shrivastava%20here&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20%20%7C%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/aiverseofshalab">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Python+Developer+%7C+AI+%2F+ML+Enthusiast;Building+with+Flask%2C+Django+%26+FastAPI;Exploring+LLMs+%E2%80%94+OpenAI%2C+Groq%2C+Claude%2C+Gemini;CSE+Student+%40+GGITS+Jabalpur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Python+Developer+%7C+AI+%2F+ML+Enthusiast" alt="Typing SVG" 
+    />
+
+
+  
 </a>
 
 <br/>
@@ -23,6 +27,11 @@
 
 ```typescript
 const shalab = {
+  name: "Shalab Shrivastava",
+  education: {
+    degree: "B.Tech CSE (IoT)",
+    college: "GGITS, Jabalpur",
+  },
   title: "Python Developer | AI Enthusiast | CSE Student",
   stack: {
     languages: ["Python", "JavaScript", "C++"],
@@ -31,7 +40,7 @@ const shalab = {
     database: ["MySQL"],
     cloud: ["Vercel", "Render", "Netlify"],
     llmApis: ["OpenAI API", "Groq API", "Anthropic (Claude API)", "Gemini API"],
-    mlLibs: ["TensorFlow", "PyTorch", "scikit-learn"],
+    mlLibs: ["TensorFlow", "PyTorch", "scikit-learn", "Generative AI", "LLMs", "AI Agents", "Prompt Engineering",],
     devOps: ["Git", "GitHub", "Bash"],
     tools: ["Git", "GitHub", "VS Code"],
   },
