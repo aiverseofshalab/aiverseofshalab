@@ -147,7 +147,7 @@ A real-time disaster management system providing early alerts for earthquakes, t
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aiverseofshalab&theme=onedark&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=aiverseofshalab&theme=onedark&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" alt="Trophies"/>
 
 <br/>
 
