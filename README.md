@@ -40,7 +40,7 @@ const shalab = {
     database: ["MySQL"],
     cloud: ["Vercel", "Render", "Netlify"],
     llmApis: ["OpenAI API", "Groq API", "Anthropic (Claude API)", "Gemini API"],
-    mlLibs: ["TensorFlow", "PyTorch", "scikit-learn", "Generative AI", "LLMs", "AI Agents", "Prompt Engineering",],
+    mlLibs: ["TensorFlow", "PyTorch", "scikit-learn", "Generative AI", "LLMs", "AI Agents", "Prompt Engineering"],
     devOps: ["Git", "GitHub", "Bash"],
     tools: ["Git", "GitHub", "VS Code"],
   },
