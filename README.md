@@ -66,7 +66,7 @@ Built an end-to-end automated pipeline for outbound survey calls — from data i
 
 <div align="left">
 <a href="https://github.com/aiverseofshalab/Call-Agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiverseofshalab&repo=Call-Agent&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI-Powered IR Survey Agent"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=aiverseofshalab&repo=Call-Agent&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI-Powered IR Survey Agent"/>
 </a>
 </div>
 
@@ -138,8 +138,8 @@ A real-time disaster management system providing early alerts for earthquakes, t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aiverseofshalab&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiverseofshalab&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=aiverseofshalab&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aiverseofshalab&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%"/>
 
 <br/>
 
@@ -147,7 +147,7 @@ A real-time disaster management system providing early alerts for earthquakes, t
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aiverseofshalab&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aiverseofshalab&theme=onedark&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" alt="Trophies"/>
 
 <br/>
 
