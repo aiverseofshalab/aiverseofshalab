@@ -1,39 +1,176 @@
-<h1 align="center">Hi 👋, I'm Shalab Kumar Shrivastava</h1>
-<h3 align="center">A passionate MernStack WebDeveloper from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiverseofshalab&label=Profile%20views&color=0e75b6&style=flat" alt="aiverseofshalab" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Shalab%20here&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%20%7C%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiverseofshalab" alt="aiverseofshalab" /></a> </p>
+<a href="https://github.com/aiverseofshalab">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Python+Developer+%7C+AI+%2F+ML+Enthusiast;Building+with+Flask%2C+Django+%26+FastAPI;Exploring+LLMs+%E2%80%94+OpenAI%2C+Groq%2C+Claude%2C+Gemini;CSE+Student+%40+GGITS+Jabalpur" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/aiverseofshalab" target="blank"><img src="https://img.shields.io/twitter/follow/aiverseofshalab?logo=twitter&style=for-the-badge" alt="aiverseofshalab" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on [Open-Pulse](https://github.com/aiverseofshalab/Open-Pulse)
+<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=handshake&logoColor=0f172a&labelColor=0f172a" alt="Open to Work"/>
 
-- 🌱 I’m currently learning **AIML including Cybersecurity**
+<br/><br/>
 
-- 📫 How to reach me **aiverseofshalab@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=aiverseofshalab&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/aiverseofshalab?label=Followers&style=for-the-badge&color=7dd3fc" alt="Followers"/>
 
-- 📄 Know about my experiences [Resume 2.pdf](Resume 2.pdf)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aiverseofshalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aiverseofshalab" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aiverseofshalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiverseofshalab" height="30" width="40" /></a>
-<a href="https://fb.com/shalab kumar shrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shalab kumar shrivastava" height="30" width="40" /></a>
-<a href="https://instagram.com/aiverseofshalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aiverseofshalab" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shalabksr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shalabksr" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shalabksr23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shalabksr23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aiverseofshalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aiverseofshalab" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## 🧠 Who I Am
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aiverseofshalab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aiverseofshalab" /></a></p><br><br>
+```typescript
+const shalab = {
+  title: "Python Developer | AI Enthusiast | CSE Student",
+  stack: {
+    languages: ["Python", "JavaScript", "C++"],
+    frontend: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
+    backend: ["Flask", "Django", "FastAPI"],
+    database: ["MySQL"],
+    cloud: ["Vercel", "Render", "Netlify"],
+    llmApis: ["OpenAI API", "Groq API", "Anthropic (Claude API)", "Gemini API"],
+    mlLibs: ["TensorFlow", "PyTorch", "scikit-learn"],
+    devOps: ["Git", "GitHub", "Bash"],
+    tools: ["Git", "GitHub", "VS Code"],
+  },
+  launchedProjects: [
+    "AI-Powered IR Survey Agent — Full-Stack Automation Project",
+    "Smart Disaster Management & Emergency Response System (SIH Internal Round)",
+  ],
+  certifications: [
+    "Data Analytics Essentials — Cisco Networking Academy",
+    "Introduction to Modern AI — Cisco Networking Academy",
+    "Introducing Generative AI with AWS — Udacity",
+    "AWS Educate Machine Learning Foundations — AWS",
+    "Introduction to Git and GitHub — Microsoft",
+  ],
+  hackathonAchievements: [
+    "🏆 Hackathon Winner ×1",
+    "🥈 Hackathon Runner-up ×2",
+  ],
+  status: "Building AI-driven full-stack systems 🚀",
+  openTo: ["Full-Time Roles", "Internships", "Collaborations", "Open Source"],
+} as const;
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiverseofshalab&show_icons=true&locale=en&layout=compact" alt="aiverseofshalab" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aiverseofshalab&show_icons=true&locale=en" alt="aiverseofshalab" /></p>
+## 🚀 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiverseofshalab&" alt="aiverseofshalab" /></p>
+### 🤖 AI-Powered IR Survey Agent
+**Mar 2026 – Apr 2026** · Full-Stack Automation Project
+
+Built an end-to-end automated pipeline for outbound survey calls — from data input, through an AI-driven call, to response storage — with a real-time conversational AI flow.
+
+<div align="left">
+<a href="https://github.com/aiverseofshalab/Call-Agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiverseofshalab&repo=Call-Agent&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI-Powered IR Survey Agent"/>
+</a>
+</div>
+
+| Layer | Technology |
+|---|---|
+| Frontend | Next.js, React |
+| Backend | Node.js, Express.js |
+| Database | Supabase (PostgreSQL) |
+| Voice Integration | Twilio |
+| Frontend Hosting | Vercel |
+| Backend Hosting | Render / Railway |
+| API Security | CORS-configured secure communication |
+
+🔗 **Code:** [github.com/aiverseofshalab/Call-Agent](https://github.com/aiverseofshalab/Call-Agent)
+
+---
+
+### 🌍 Smart Disaster Management & Emergency Response System
+**SIH Internal Round — In Progress**
+
+A real-time disaster management system providing early alerts for earthquakes, tsunamis, and other natural hazards, with live weather/risk monitoring, an offline-capable SOS system, nearest hospital locator, blood donation & food assistance services, and quick-access emergency transport integration (IRCTC, RedBus, Ola).
+
+| Layer | Technology |
+|---|---|
+| Core | HTML, CSS, JavaScript |
+| APIs | Basic REST APIs |
+| Offline Support | PWA (Progressive Web App) |
+| Location | Location Services |
+
+🔗 **Code:** Repository private / in progress (SIH Internal Round)
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,js,cpp" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi" />
+
+**Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=vercel" />
+<img src="https://img.shields.io/badge/Render-7dd3fc?style=for-the-badge&logo=render&logoColor=0f172a" height="48"/>
+<img src="https://img.shields.io/badge/Netlify-7dd3fc?style=for-the-badge&logo=netlify&logoColor=0f172a" height="48"/>
+
+**AI / ML & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql" />
+<img src="https://img.shields.io/badge/OpenAI-7dd3fc?style=for-the-badge&logo=openai&logoColor=0f172a" height="48"/>
+<img src="https://img.shields.io/badge/Groq-7dd3fc?style=for-the-badge&logo=groq&logoColor=0f172a" height="48"/>
+<img src="https://img.shields.io/badge/Claude%20API-7dd3fc?style=for-the-badge&logo=anthropic&logoColor=0f172a" height="48"/>
+<img src="https://img.shields.io/badge/Gemini-7dd3fc?style=for-the-badge&logo=googlegemini&logoColor=0f172a" height="48"/>
+
+**Dev Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aiverseofshalab&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiverseofshalab&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=aiverseofshalab&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aiverseofshalab&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15" alt="Trophies"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiverseofshalab&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aiverseofshalab/">
+  <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0f172a" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/aiverseofshalab">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-7dd3fc?style=for-the-badge&logo=x&logoColor=0f172a" alt="Twitter/X"/>
+</a>
+<a href="mailto:aiverseofshalab@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0f172a" alt="Email"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=150&section=footer&animation=twinkling" width="100%"/>
