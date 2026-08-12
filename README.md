@@ -1,13 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Shalab%20Shrivastava%20here&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20%20%7C%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Shalab%20Shrivastava%20here&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast%20%7C%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/aiverseofshalab">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Python+Developer+%7C+AI+%2F+ML+Enthusiast" alt="Typing SVG" 
-    />
-
-
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Python+Developer+%7C+AI+%2F+ML+Enthusiast;Building+AI-driven+full-stack+systems+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -22,6 +18,8 @@
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:7dd3fc&height=3&width=100%" width="100%"/>
 
 ## 🧠 Who I Am
 
@@ -66,6 +64,8 @@ const shalab = {
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:7dd3fc&height=3&width=100%" width="100%"/>
+
 ## 🚀 Featured Projects
 
 ### 🤖 AI-Powered IR Survey Agent
@@ -109,6 +109,8 @@ A real-time disaster management system providing early alerts for earthquakes, t
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:7dd3fc&height=3&width=100%" width="100%"/>
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -143,6 +145,8 @@ A real-time disaster management system providing early alerts for earthquakes, t
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:7dd3fc&height=3&width=100%" width="100%"/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -165,6 +169,40 @@ A real-time disaster management system providing early alerts for earthquakes, t
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:7dd3fc&height=3&width=100%" width="100%"/>
+
+## 🔥 Daily Commit Activity
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/7dd3fc/aiverseofshalab" alt="Shalab's daily commit heatmap" width="95%"/>
+
+</div>
+
+> This calendar renders every day you've committed over the past year, colored to match the theme — it updates automatically, no extra setup needed.
+
+<details>
+<summary>🐍 Want an animated commit snake instead?</summary>
+<br/>
+
+GitHub's contribution graph can also be rendered as an animated "snake" that eats through your commit squares. It needs a one-time GitHub Action in this repo (`aiverseofshalab/aiverseofshalab`):
+
+1. Add `.github/workflows/snake.yml` using the [Platane/snk](https://github.com/Platane/snk) action.
+2. Set the output SVG themed to the same palette (dark `#0f172a` background, `#7dd3fc` snake).
+3. Commit the generated `github-contribution-grid-snake.svg` and reference it here:
+
+```md
+<img src="https://raw.githubusercontent.com/aiverseofshalab/aiverseofshalab/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+```
+
+Happy to write that workflow file for you if you'd like it added.
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:7dd3fc&height=3&width=100%" width="100%"/>
 
 ## 🔗 Connect With Me
 
